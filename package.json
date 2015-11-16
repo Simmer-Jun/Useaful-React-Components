@@ -1,0 +1,28 @@
+{
+  "name": "useful-react-component",
+  "version": "0.0.0",
+  "description": "For build useful react component",
+  "keywords": [
+    "react",
+    "component",
+    "dev",
+    "useful"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simmer-jun/useful-react-component.git"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "react": "^0.14.2"
+  },
+  "devDependencies": {
+    "react": "^0.14.2"
+  },
+  "author": "Simmer",
+  "email": "xushujun_sunny@163.com",
+  "blog": "http://hisimmer.com",
+  "homepage": "http://simmer-jun.github.io/useful-react-component",
+  "license": "MIT"
+}
